@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Últimas Publicaciones"
+image:
+  feature: "head.png"
 ---
 
 <div class="tiles">

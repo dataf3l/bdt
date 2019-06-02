@@ -1,4 +1,24 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: "El Banco"
+  url: /banco-del-tiempo
+
+- title: "Qué es/Cómo funciona"
+  url: /Que-es-un-banco-de-tiempo-como-funciona
+
+- title: "Origen"
+  url: /como-se-creo-el-bdt-en-bogota
+
+- title: "Objetivos"
+  url: /cuales-son-los-objetivos-del-bdt-de-bogota
+
+- title: "Servicios"
+  url: /servicios-que-se-ofrecen-y-demandan-en-el-bdt
+
+- title: "Instagram"
+  url: https://www.instagram.com/bancodeltiempobogota/
+
+- title: "Facebook"
+  url: https://web.facebook.com/pg/bdtbogota/
+
+

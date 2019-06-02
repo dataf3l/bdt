@@ -1,6 +1,27 @@
 # Site navigation links
 
-- title:
-  url:
+- title: "El Banco"
+  url: /banco-del-tiempo
   excerpt:
-  image:
+  image: "logos--blanco.png"
+
+- title: "Qué es"
+  url: /Que-es-un-banco-de-tiempo-como-funciona
+  excerpt:
+  image: "logos--blanco.png"
+
+- title: "Origen"
+  url: /como-se-creo-el-bdt-en-bogota
+  excerpt:
+  image: "logos--blanco.png"
+
+- title: "Únete"
+  url: /unete
+  excerpt:
+  image: "logos--blanco.png"
+
+- title: "Servicios"
+  url: /servicios-que-se-ofrecen-y-demandan-en-el-bdt
+  excerpt:
+  image: "logos--blanco.png"
+
